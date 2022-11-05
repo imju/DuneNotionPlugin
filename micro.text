@@ -1,0 +1,10 @@
+{
+	"name": "DuneSlayer",
+	"id": "a5638483-5740-4536-b02b-2286b98dca58",
+	"project": "b0g2w6ov",
+	"runtime": "python3.9",
+	"endpoint": "https://4asj6l.deta.dev",
+	"region": "us-east-1",
+	"visor": "disabled",
+	"http_auth": "disabled"
+}
