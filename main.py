@@ -77,6 +77,8 @@ def create_whale_db(parent_id:str):
 def query_db(database_id:str):
     return notion.query(database_id)
 
+
+
 if __name__ == '__main__':
     app.run()
 
