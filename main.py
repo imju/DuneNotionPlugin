@@ -33,9 +33,11 @@ def get_query():
             return response_status
 
 
-@app.route('/', methods=["GET"])
+@app.route('/', methods=["GET", "POST"])
 def hello():
-    return "Let's get whale data"
+    if request.method == "POST":
+        create_whale_db(request.form["pageID"])
+    return render_template("template1.html")
 
 @app.route('/create_db/<string:parent_id>', methods=["GET"])
 def create_db(parent_id:str):
@@ -59,8 +61,10 @@ def create_load_mock_db(parent_id:str):
     notion.add_trx_rows(db["id"], data)
     return "DB created and Transaction data is loaded"
 
-@app.route('/create_whale_db/<string:parent_id>', methods=["GET"])
+@app.route('/create_whale_db/<string:parent_id>', methods=["GET", "POST"])
 def create_whale_db(parent_id:str):
+    
+
     db = notion.create_db(parent_id)
 
     data=get_query()
