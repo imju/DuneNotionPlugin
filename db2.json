@@ -1,0 +1,71 @@
+{
+    "has_more": false,
+    "next_cursor": null,
+    "object": "list",
+    "page": {},
+    "results": [
+        {
+            "archived": false,
+            "cover": null,
+            "created_by": {
+                "id": "59676814-a255-42d4-9949-6d1886ef17e2",
+                "object": "user"
+            },
+            "created_time": "2022-11-06T08:35:00.000Z",
+            "icon": null,
+            "id": "4f5635b8-bf0d-4390-ba93-ba859531c744",
+            "last_edited_by": {
+                "id": "59676814-a255-42d4-9949-6d1886ef17e2",
+                "object": "user"
+            },
+            "last_edited_time": "2022-11-06T08:36:00.000Z",
+            "object": "page",
+            "parent": {
+                "database_id": "e037610d-071a-4456-8f57-934d982e31e9",
+                "type": "database_id"
+            },
+            "properties": {
+                "Average Value Transacted": {
+                    "id": "%5Ekgl",
+                    "number": 33624.91817188344,
+                    "type": "number"
+                },
+                "Number of Transactions": {
+                    "id": "ssrI",
+                    "number": 23,
+                    "type": "number"
+                },
+                "Total USD Transacted": {
+                    "id": "PwvR",
+                    "number": 773373.1179533191,
+                    "type": "number"
+                },
+                "Wallet Address": {
+                    "id": "title",
+                    "title": [
+                        {
+                            "annotations": {
+                                "bold": false,
+                                "code": false,
+                                "color": "default",
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false
+                            },
+                            "href": null,
+                            "plain_text": "0x479bc00624e58398f4cf59d78884d12fb515790a",
+                            "text": {
+                                "content": "0x479bc00624e58398f4cf59d78884d12fb515790a",
+                                "link": null
+                            },
+                            "type": "text"
+                        }
+                    ],
+                    "type": "title"
+                }
+            },
+            "url": "https://www.notion.so/0x479bc00624e58398f4cf59d78884d12fb515790a-4f5635b8bf0d4390ba93ba859531c744"
+        }
+    ],
+    "type": "page"
+}

@@ -1,0 +1,86 @@
+{
+    "execution_ended_at": "2022-11-06T07:22:19.622912Z",
+    "execution_id": "01GH5X31T2Q69JXSTR4F84JF4Q",
+    "execution_started_at": "2022-11-06T07:22:13.700493Z",
+    "expires_at": "2024-11-05T07:22:19.622914Z",
+    "query_id": 1530879,
+    "result": {
+        "metadata": {
+            "column_names": [
+                "tx_from",
+                "total_count",
+                "total_usd_volume",
+                "avg_trade_volume"
+            ],
+            "datapoint_count": 40,
+            "execution_time_millis": 5922,
+            "pending_time_millis": 1,
+            "result_set_bytes": 853,
+            "total_row_count": 10
+        },
+        "rows": [
+            {
+                "avg_trade_volume": 33624.91817188344,
+                "total_count": 23,
+                "total_usd_volume": 773373.1179533191,
+                "tx_from": "0x479bc00624e58398f4cf59d78884d12fb515790a"
+            },
+            {
+                "avg_trade_volume": 48499.594012438654,
+                "total_count": 8,
+                "total_usd_volume": 387996.75209950923,
+                "tx_from": "0x4970197593ef5aed9d2c33409b953f5f9bb22563"
+            },
+            {
+                "avg_trade_volume": 19364.728893022555,
+                "total_count": 17,
+                "total_usd_volume": 329200.39118138346,
+                "tx_from": "0xf8caeb4070c9ddf9d8a2952d1fc17e3ca6e18b07"
+            },
+            {
+                "avg_trade_volume": 41695.05257206507,
+                "total_count": 7,
+                "total_usd_volume": 291865.36800445546,
+                "tx_from": "0x3443006ed920730005d88267c49f77abcde749af"
+            },
+            {
+                "avg_trade_volume": 56478.01362679284,
+                "total_count": 4,
+                "total_usd_volume": 225912.05450717136,
+                "tx_from": "0x2393eabfb6885e83822f79cbf5bd1fc05c95fe54"
+            },
+            {
+                "avg_trade_volume": 104231.43208926063,
+                "total_count": 2,
+                "total_usd_volume": 208462.86417852127,
+                "tx_from": "0xc0efe9de34f0348e216d84887780cc5ebcf0c782"
+            },
+            {
+                "avg_trade_volume": 15945.96810287329,
+                "total_count": 13,
+                "total_usd_volume": 207297.58533735276,
+                "tx_from": "0x0039b625b1d8632c7a0057c964ec58a9f39789d3"
+            },
+            {
+                "avg_trade_volume": 48549.61477123665,
+                "total_count": 4,
+                "total_usd_volume": 194198.4590849466,
+                "tx_from": "0x9827a2a7bef6397c2ebd786364e4ad12c13ec91a"
+            },
+            {
+                "avg_trade_volume": 45883.56640334927,
+                "total_count": 4,
+                "total_usd_volume": 183534.2656133971,
+                "tx_from": "0xd6f859ba5076e7690b2056f697e5097f9fe836ed"
+            },
+            {
+                "avg_trade_volume": 86434.32854157517,
+                "total_count": 2,
+                "total_usd_volume": 172868.65708315035,
+                "tx_from": "0xaa5efb75193b61c0f733890aac01bff059e20c8b"
+            }
+        ]
+    },
+    "state": "QUERY_STATE_COMPLETED",
+    "submitted_at": "2022-11-06T07:22:13.699434Z"
+}
