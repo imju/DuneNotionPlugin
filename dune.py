@@ -3,11 +3,10 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-#DUNE_TOKEN = os.getenv('DUNE_TOKEN')
 
 #if DUNE_TOKEN is None:
 #    raise EnvironmentError('Set Environment variable: DUNE_TOKEN')
-HEADER = {"x-dune-api-key": "giRNA19Wojf5gJItxRyXJ07Qz11Hzv1G"}
+HEADER = {"x-dune-api-key": os.getenv('DUNE_API_KEY')}
 
 BASE_URL = "https://api.dune.com/api/v1/"
 
