@@ -53,7 +53,7 @@ deta deploy
 
 ## Meta
 
-Imju Byon, , Alex Duckworth [@imjubyon](https://twitter.com/imjubyon) 
+Contributor: Imju Byon[@imjubyon](https://twitter.com/imjubyon), Alex Duckworth  
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
