@@ -4,7 +4,7 @@
 
 Like to find out who the big whales are at the moment in notion? This service will find the top whales by the volume by recent data and will populate notion database here for ease of naviation.
 
-![](header.png)
+![DuneNotion](/assets/DuneNotion_icon.png)
 
 ## How to Deploy
 
@@ -16,8 +16,12 @@ deta deploy
 
 
 ## Usage example
+ 
+![Dune Notion System Flow](/assets/DuneNotionAPI_FlowDiagram.png?raw=true "Dune Notion Architecture")
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+![Whale Tracking Notion Page](/assets/WhaleTracking_NotionPage.png?raw=true "Whale Tracking Notion page sample")
+
+![Whale DB sample](/assets/NotionDB_sample.png?raw=true "Whale DB sample")
 
 
 ## Development setup
