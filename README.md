@@ -1,5 +1,5 @@
 # DuneNotionPlugin
-> DuneNotionPlugin is a Dune API integration with Notion
+> DuneNotionPlugin is a [Dune API](https://dune.com/) integration with Notion
 
 
 Like to find out who the big whales are at the moment in notion? This service will find the top whales by the volume by recent data and will populate notion database here for ease of naviation.
