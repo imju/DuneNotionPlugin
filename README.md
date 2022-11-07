@@ -19,12 +19,11 @@ deta deploy
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Development setup
 1. Clone this repo
-2. Download cli based on [this document][https://docs.deta.sh/docs/micros/getting_started]
-3. Download [python 3.9][https://www.python.org/downloads/release/python-390/] and follow the installation instruction from the distribution
+2. Download cli based on [this document] (https://docs.deta.sh/docs/micros/getting_started)
+3. Download [python 3.9](https://www.python.org/downloads/release/python-390/) and follow the installation instruction from the distribution
 4. If python3.9 was installed, you can create a virtual env inside of the project
 ```
 python3.9 -m venv "venv"
@@ -46,7 +45,7 @@ deta deploy
 
 ## Meta
 
-Imju Byon, , Alex Duckworth [@imjubyon](https://twitter.com/imjubyon, ) 
+Imju Byon, , Alex Duckworth [@imjubyon](https://twitter.com/imjubyon) 
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
