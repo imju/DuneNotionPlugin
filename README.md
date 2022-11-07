@@ -15,11 +15,13 @@ deta deploy
 ```
 
 
-### System Architecture
+## How it's built
  
 ![Dune Notion System Flow](/assets/DuneNotionAPI_FlowDiagram.png?raw=true "Dune Notion Architecture")
 
-### Notion page sample
+## How it's used
+
+### Sample Notion page
 
 ![Whale Tracking Notion Page](/assets/WhaleTracking_NotionPage.png?raw=true "Whale Tracking Notion page sample")
 
