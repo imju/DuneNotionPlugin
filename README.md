@@ -1,5 +1,5 @@
-# DuneSlayer
-> DuneSlayer is a WhaleTracking API using Dune service
+# DuneNotionPlugin
+> DuneNotionPlugin is a Dune API integration with Notion
 
 
 Like to find out who the big whales are at the moment in notion? This service will find the top whales by the volume by recent data and will populate notion database here for ease of naviation.
@@ -46,15 +46,15 @@ deta deploy
 
 ## Meta
 
-Imju Byon, , – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Imju Byon, , Alex Duckworth [@imjubyon](https://twitter.com/imjubyon, ) 
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/imju/DuneNotionPlugin](https://github.com/imju/DuneNotionPlugin)
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/imju/DuneNotionPlugin>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
