@@ -28,7 +28,7 @@ A few motivating and useful examples of how your product can be used. Spice this
 ```
 python3.9 -m venv "venv"
 ```
-5. Need to login first to desh if not done once
+5. Need to login first to deta if not done once
 ```
 deta login
 ```
