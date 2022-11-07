@@ -15,11 +15,15 @@ deta deploy
 ```
 
 
-## Usage example
+### System Architecture
  
 ![Dune Notion System Flow](/assets/DuneNotionAPI_FlowDiagram.png?raw=true "Dune Notion Architecture")
 
+### Notion page sample
+
 ![Whale Tracking Notion Page](/assets/WhaleTracking_NotionPage.png?raw=true "Whale Tracking Notion page sample")
+
+### Whale DB sample
 
 ![Whale DB sample](/assets/NotionDB_sample.png?raw=true "Whale DB sample")
 
